@@ -1,0 +1,1 @@
+<person> Ridwan Kamil </person> adalah Gubernur <location> Jawa Barat </location>
