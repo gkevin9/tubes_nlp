@@ -1,5 +1,5 @@
-Menteri Pertahanan atau Menhan <person>Prabowo Subianto</person> dapat perintah Presiden <location>RI</location> <person>Joko Widodo</person> alias <person>Jokowi</person>.
+Menteri Pertahanan atau Menhan <person> Prabowo Subianto </person> dapat perintah Presiden <location> RI </location> <person> Joko Widodo </person> alias <person> Jokowi </person>.
 
-Ternyata, perintah <person>Jokowi</person> bikin senang <person>Prabowo Subianto</person>, dan bahkan <person>Prabowo Subianto</person> pegang perintah <person>Jokowi</person> tersebut.
+Ternyata, perintah <person> Jokowi </person> bikin senang <person> Prabowo Subianto </person>, dan bahkan <person> Prabowo Subianto </person> pegang perintah <person> Jokowi </person> tersebut.
 
-Ada kesan pertama Menhan Prabowo Subianto di <organization>Kabinet Indonesia Maju</organization>, <person>Prabowo Subianto</person> puja Presiden RI <person>Joko Widodo</person>.
+Ada kesan pertama Menhan Prabowo Subianto di <organization> Kabinet Indonesia Maju </organization> , <person> Prabowo Subianto </person> puja Presiden RI <person> Joko Widodo </person>.
