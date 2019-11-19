@@ -1,6 +1,9 @@
-<link type="text/css" rel="stylesheet" href="{{ url_for('static', filename='/css/bootstrap.css') }}"/>
+<link type="text/css" rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}"/>
+<link type="text/css" rel="stylesheet" href="../static/css/style.css"/>
 
-<form action="/get-file" method="POST">
-    <input type="file" id="file-select" name="file-select" accept=".txt">
-    <input type="submit" id="submit-file">
- </form>
+<h2 class="title">Masukan File .txt yang ingin diinput</h2>
+
+<form action="/get-file" method="POST" class="form">
+    <input class="file" type="file" class="custom-file-input" id="file-select" name="file-select" accept=".txt">
+    <input class="submit" type="submit" id="submit-file">
+</form>
